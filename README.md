@@ -1,4 +1,4 @@
-# mBot2 Python
+# mBot2
 
 This repository contains a collection of programming examples for controlling the mBot2 robot and CyberPi main control board. It serves as a dedicated resource for developers who want to write custom code for these devices, beyond the mBlock environment.
 
