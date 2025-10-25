@@ -33,3 +33,22 @@ This repository contains a collection of programming examples for controlling th
 | | **mBot2 Shield** | [mBot2 Chassis](), [mBot2 Extension Port]() | ❌ |
 | | **Pocket Shield** | [CyberPi Pocket Shield]() | ❌ |
 | **Modules** | **mBuild Module** | [Ultrasonic Sensor 2](), [Quad RGB Sensor](), [Bluetooth Controller](), [Smart Camera](), [Science Sensor](), [More]() | ❌ |
+
+
+---
+
+## 4. Projects
+
+This section features integrated and larger-scale projects built using the code examples in this repository. These projects demonstrate practical applications and complex functionalities of the mBot2 and CyberPi.
+
+Click [**Here**](link/to/project/directory) to explore more projects!
+
+---
+
+## 5. Tools
+
+A collection of utility scripts, debugging aids, and essential tools needed for firmware management, flashing, or advanced development outside the standard mBlock environment.
+
+Click [**Here**](link/to/tools/directory) to explore more tools!
+
+---
