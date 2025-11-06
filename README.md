@@ -37,7 +37,7 @@ This repository contains a collection of programming examples for controlling th
 
 ---
 
-## 4. Projects
+## Projects
 
 This section features integrated and larger-scale projects built using the code examples in this repository. These projects demonstrate practical applications and complex functionalities of the mBot2 and CyberPi.
 
@@ -45,7 +45,7 @@ Click [**Here**](https://github.com/PerfecXX/mBot2/tree/main/project) to explore
 
 ---
 
-## 5. Tools
+## Tools
 
 A collection of utility scripts, debugging aids, and essential tools needed for firmware management, flashing, or advanced development outside the standard mBlock environment.
 
